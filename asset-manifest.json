@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/svartaklingan/static/css/main.f855e6bc.css",
-    "main.js": "/svartaklingan/static/js/main.76b67e62.js",
-    "static/js/453.003c1c8d.chunk.js": "/svartaklingan/static/js/453.003c1c8d.chunk.js",
-    "static/media/logo.svg": "/svartaklingan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/svartaklingan/static/css/main.e6c13ad2.css",
+    "main.js": "/svartaklingan/static/js/main.abd574fd.js",
     "index.html": "/svartaklingan/index.html",
-    "main.f855e6bc.css.map": "/svartaklingan/static/css/main.f855e6bc.css.map",
-    "main.76b67e62.js.map": "/svartaklingan/static/js/main.76b67e62.js.map",
-    "453.003c1c8d.chunk.js.map": "/svartaklingan/static/js/453.003c1c8d.chunk.js.map"
+    "main.e6c13ad2.css.map": "/svartaklingan/static/css/main.e6c13ad2.css.map",
+    "main.abd574fd.js.map": "/svartaklingan/static/js/main.abd574fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.76b67e62.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.abd574fd.js"
   ]
 }
