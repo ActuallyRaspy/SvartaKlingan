@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SvartaKlingan/static/css/main.f311099a.css",
-    "main.js": "/SvartaKlingan/static/js/main.109066ff.js",
+    "main.css": "/SvartaKlingan/static/css/main.89a0b1ef.css",
+    "main.js": "/SvartaKlingan/static/js/main.f4220567.js",
     "index.html": "/SvartaKlingan/index.html",
-    "main.f311099a.css.map": "/SvartaKlingan/static/css/main.f311099a.css.map",
-    "main.109066ff.js.map": "/SvartaKlingan/static/js/main.109066ff.js.map"
+    "main.89a0b1ef.css.map": "/SvartaKlingan/static/css/main.89a0b1ef.css.map",
+    "main.f4220567.js.map": "/SvartaKlingan/static/js/main.f4220567.js.map"
   },
   "entrypoints": [
-    "static/css/main.f311099a.css",
-    "static/js/main.109066ff.js"
+    "static/css/main.89a0b1ef.css",
+    "static/js/main.f4220567.js"
   ]
 }
